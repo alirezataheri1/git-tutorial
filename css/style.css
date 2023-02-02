@@ -12,4 +12,12 @@ p {
     text-align: center;
     font-size: 25px;
     color: #512000;
+    margin: 20px 0;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 20%;
+    height: auto;
 }
