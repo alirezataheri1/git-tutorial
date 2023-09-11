@@ -1,5 +1,3 @@
 hello
 
 responsive file3
-
-add space for clean code
